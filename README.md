@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Yash Bhanushali!
 
+### Im' a quirky code-lover who brews some awesome code as soon as he sips some awesome coffee.
 <!--
 **yash11213018/yash11213018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
