@@ -1,9 +1,8 @@
 ## Hi there 👋 
 ### This is the place where I experiment on codes and eventually break 'em. 
-
- Markup : -🔭 I’m currently working on React-js and deploying thing(s) on the Web.
-          -🌱 I’m currently learning ML essentials and debunking it's know-hows.
-          -📫 How to reach me: <a href="mailto:yash.bhanushali@sakec.ac.in">@me</a>
+ -🔭 I’m currently working on React-js and deploying thing(s) on the Web.
+ -🌱 I’m currently learning ML essentials and debunking it's know-hows.
+ -📫 How to reach me: <a href="mailto:yash.bhanushali@sakec.ac.in">@me</a>
 
 <!--
 **yash11213018/yash11213018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
