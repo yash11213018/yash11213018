@@ -5,7 +5,11 @@
  - 📫 How to reach me: <a href="mailto:yash.bhanushali@sakec.ac.in">@me</a>
  ## These are the projects am currently working on:
  - <a href="https://github.com/dhyey-shah/react-website-builder">React-Website-Builder</a> 
- - <a href="https://github.com/yash11213018/react-gitAnalyzer">React-gitHub Analyzer/a> 
+ - <a href="https://github.com/yash11213018/react-gitAnalyzer">React-gitHub Analyzer</a> 
+ ## Do Check out my Portfolio!😄
+ - <a href="https://yash11213018.github.io/Portfolio/">Portfolio-Site</a> 
+ ## Catch me up on Linked-In 
+ - <a href="https://www.linkedin.com/in/yash-bhanushali-29476319a/">me</a> 
  
 
 <!--
