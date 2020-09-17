@@ -8,7 +8,10 @@
  - <a href="https://github.com/yash11213018/react-gitAnalyzer">React-gitHub Analyzer</a> 
  ## Do Check out my Portfolio!😄
  - <a href="https://yash11213018.github.io/Portfolio/">Yash Bhanushali</a> 
- ## Catch me up on Linked-In 
- - <a href="https://www.linkedin.com/in/yash-bhanushali-29476319a/"><img src="https://img.icons8.com/metro/26/000000/linkedin.png"/></a> 
+ ## Catch me up on Socials
+ <a href="https://www.linkedin.com/in/yash-bhanushali-29476319a/"><img src="https://img.icons8.com/metro/26/000000/linkedin.png"/></a> 
+ <a href="https://www.instagram.com/ysh_.bh_"><img src="https://img.icons8.com/metro/26/000000/instagram-new.png"/></a> 
  
+
+
 
