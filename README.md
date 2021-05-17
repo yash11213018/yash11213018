@@ -1,7 +1,7 @@
 # Hey, 👋 nice to see you! 
  ## This is the place where I experiment on codes and eventually perform their autopsy.
  - 🔭 I’m currently working on React-js and deploying thing(s) on the Web.
- - 🌱 I’m currently learning ML essentials and debunking it's know-hows.
+ - 🌱 Also, learning ML essentials and debunking it's know-hows.
  - 📫 How to reach me: <a href="mailto:yash.bhanushali@sakec.ac.in">@YashBhanushaali</a>
  ## These are the projects am currently working on:
  - <a href="https://github.com/dhyey-shah/react-website-builder">React-Website-Builder</a> 
